@@ -4,4 +4,4 @@ This application goes along with the Build a Rails API with React Tutorial. Inst
 
 Building the Rails API: https://www.techandstartup.com/tutorials/rails-api
 
-This is a Rail API-only application.
+This is a Rails API-only application.
